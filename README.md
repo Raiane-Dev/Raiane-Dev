@@ -1,8 +1,8 @@
 ## Olá mundo! 
 <div align="center">
   <a href="https://github.com/Raiane-Dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raiane-Dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiane-Dev&layout=compact&langs_count=7&theme=midnight-purple&bg_color=#fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raiane-Dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=45,0d0d0d,24252D&hide_border=true&title_color=e3e1e3&text_color=ffffff&border_radius=10&icon_color=DA18A3&card_width=350"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiane-Dev&layout=compact&langs_count=7&theme=midnight-purple&bg_color=45,0d0d0d,24252D&hide_border=true&title_color=e3e1e3&text_color=ffffff&border_radius=10&icon_color=DA18A3&card_width=350"/>
 </div>
 
   
