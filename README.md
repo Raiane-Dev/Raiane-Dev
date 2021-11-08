@@ -1,8 +1,8 @@
 ## Olá mundo! 
 <div align="center" style="display: grid; grid-template-columns:50% 50%;">
   <a href="https://github.com/Raiane-Dev">
-  <div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raiane-Dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></div>
-  <div><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiane-Dev&layout=compact&langs_count=7&theme=midnight-purple"/></div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raiane-Dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiane-Dev&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Raiane-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
