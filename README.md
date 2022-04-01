@@ -41,7 +41,10 @@
   <img alt="mysql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img alt="firebase" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img alt="firebase" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
- 
+  <br /><br />
+  <span> (e sei desmontar pc) </span>
+  
+  
   ![Snake animation](https://github.com/Raiane-Dev/Raiane-Dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
