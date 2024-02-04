@@ -15,18 +15,6 @@
   <table>
     <tbody>
       <tr>
-        <td align="center">🛠️ Tools</td>
-        <td align="center">
-          <img align="center" alt="Raiane-BASH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-          <img align="center" alt="Raiane-SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg">
-          <img align="center" alt="Raiane-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-          <img align="center" alt="Raiane-APACHE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-          <img align="center" alt="Raiane-VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-          <img align="center" alt="Raiane-DOCKER" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-        </td>
-      </tr>
-      <tr>
         <td align="center">🛠️ Languages</td>
         <td align="center">
           <img align="center" alt="Raiane-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -35,25 +23,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/dock
           <img align="center" alt="Raiane-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
           <img align="center" alt="Raiane-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
           <img align="center" alt="Raiane-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-        </td>
-      </tr>
-      <tr>
-        <td align="center">🛠️ Package Managers</td>
-        <td align="center">
-        <img alt="github" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img alt="git" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img align="center" alt="Raiane-COMPOSER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
-        <img align="center" alt="Raiane-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-        <img align="center" alt="Raiane-YARN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
-        </td>
-      </tr>
-      <tr>
-        <td align="center">🛠️ Databases</td>
-        <td align="center">
-          <img alt="mysql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          <img alt="mysql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-          <img alt="firebase" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-          <img alt="firebase" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
         </td>
       </tr>
     </tbody>
