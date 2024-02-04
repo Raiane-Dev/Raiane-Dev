@@ -30,15 +30,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/dock
         <td align="center">🛠️ Languages</td>
         <td align="center">
           <img align="center" alt="Raiane-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-          <img align="center" alt="Raiane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          <img align="center" alt="Raiane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <img align="center" alt="Raiane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           <img align="center" alt="Raiane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-          <img align="center" alt="Raiane-JQUERY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
           <img align="center" alt="Raiane-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
           <img align="center" alt="Raiane-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-          <img align="center" alt="Raiane-CPLUSPLUS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-          <img align="center" alt="Raiane-LESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
+          <img align="center" alt="Raiane-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+          <img align="center" alt="Raiane-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
         </td>
       </tr>
       <tr>
