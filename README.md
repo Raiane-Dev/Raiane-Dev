@@ -17,12 +17,12 @@
       <tr>
         <td align="center">🛠️ Languages</td>
         <td align="center">
-          <img align="center" alt="Raiane-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-          <img align="center" alt="Raiane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-          <img align="center" alt="Raiane-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-          <img align="center" alt="Raiane-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-          <img align="center" alt="Raiane-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-          <img align="center" alt="Raiane-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+          <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+          <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
+          <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+          <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+          <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+          <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
         </td>
       </tr>
     </tbody>
